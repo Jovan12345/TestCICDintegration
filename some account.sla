@@ -1,0 +1,33 @@
+{
+    "class_id": "com-snaplogic-snaps-servicenow-servicenowaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "Interworks-Partner"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "some account"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "instance": {
+                "value": "idk"
+            },
+            "password": {
+                "fp": "47350bca925101a6b508b7b53932e112ad50b600639a7ac218cd42561daba81e",
+                "key": "account-cloud-managed-5b7548984dd5a8001fb7e9ca-2018-08-16T09:49:24-650697+00:00",
+                "sym_iv": "So7LIf95KTAqQ9ytDpmAPg==",
+                "sym_key": "TVd53I+Uh2N3MKvzQr3w/I0y/8718orQlsjTRoLSciFUgzWN+WLSqeB/6Km/USMRRlhonM1OsPyOQD8qYFxGf48zRKbSNWQR+QxWXTrizwqmH6h9ar0UnnFSOBbnfZZtrkzlD9rBySIS1AdAKak8kypzQLDJfDmnZQqGrP0sfUIPQRYtPFatpkgs3kRoxj5meSgIQvPJ0SaEaQ3TqX2E6QNuUprZvzKhAAZKtY89DmrAlQ4nDSTkfBVEEkwFku9sBKcixdgUks/jyqXBol8QsTOJpWvG383Ejkx8iSSIxcNWNml951iHY8lV7LkerJnNyGtkzHdrRkM4KJfoqN8u9g==",
+                "value": "KSif14dKv1qKnV/ePUpeZ5GB3PPZd3PUD14meryRnik="
+            },
+            "username": {
+                "value": "jovan.jovanovski@interworks.com.mk"
+            }
+        },
+        "view_serial": 100
+    }
+}
