@@ -1,0 +1,27 @@
+[
+	{
+		"MemberType": "Family",
+		"MemberList": [
+			{
+				"Name": "Adam",
+				"Age": 56
+			},
+			{
+				"Name": "Ganesh",
+				"Age": 27
+			},
+			{
+				"Name": "Srishiti",
+				"Age": 5
+			},
+			{
+				"Name": "John",
+				"Age": 25
+			},
+			{
+				"Name": "Nick",
+				"Age": 19
+			}
+		]
+	}
+]
