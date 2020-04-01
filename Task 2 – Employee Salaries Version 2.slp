@@ -415,7 +415,7 @@
                     },
                     "filePath": {
                         "expression": false,
-                        "value": "Employees_BigSalaries.zip"
+                        "value": ""
                     },
                     "preventURLEncoding": {
                         "value": false
@@ -1197,6 +1197,5 @@
                 "view_serial": 100
             }
         }
-    },
-    "target_runtime": "standard"
+    }
 }
