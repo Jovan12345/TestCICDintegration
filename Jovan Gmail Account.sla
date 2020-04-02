@@ -44,7 +44,7 @@
                 "value": 60000
             },
             "secureConnection": {
-                "value": "NONE"
+                "value": "SSL"
             },
             "serverDomain": {
                 "value": "mail.smtp.com"
