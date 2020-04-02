@@ -1,0 +1,30 @@
+{
+    "class_id": "com-snaplogic-snaps-rest-restbasicauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "Interworks-Partner"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "GitAccount"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "password": {
+                "fp": "47350bca925101a6b508b7b53932e112ad50b600639a7ac218cd42561daba81e",
+                "key": "account-cloud-managed-5b7548984dd5a8001fb7e9ca-2018-08-16T09:49:24-650697+00:00",
+                "sym_iv": "eifzjGJHRpAAoh26jgqezA==",
+                "sym_key": "aGgOMLwsAwDaLvapbejEcMphkKFXf1n5tIjbyeBxYE49XupXiV1K9hgFje0zSriKYP59S1TbfyBIlxQWC46dv06UGuZJHtVLudzXhtUmFMukaciiOwHlHbL8ALBmFzKQbMaf9kylWGKJi4Qua4aK7Qo+azmNK8rN7zEf6TFV/juf9p/DG2wt/pCryXzGzjbXljXApFicgtvF2CJbIWVkDleNnQVecTj/IYApawYiGccWtFdNvLFdi+CBqG3hlRg61IKrte9J5X/3JXFX2plvoXmWAEvdwQTLLzHcbQbZtkJPXsTglim87hQrOe/9hnvaP2PJ9ofZMkbJO4bvg0raFQ==",
+                "value": "WIbuIYqVFEyJlK+3/mIr777J6M68LJbcbTwq7n/9BZ8hdfNxmOBNZoToSjHtW6Dr"
+            },
+            "username": {
+                "value": "jovelonely1997@gmail.com"
+            }
+        },
+        "view_serial": 100
+    }
+}
