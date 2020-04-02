@@ -1,0 +1,58 @@
+{
+    "class_id": "com-snaplogic-snaps-email-smtpaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "Interworks-Partner"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Jovan IW account"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "attachmentPassword": {
+                "fp": "47350bca925101a6b508b7b53932e112ad50b600639a7ac218cd42561daba81e",
+                "key": "account-cloud-managed-5b7548984dd5a8001fb7e9ca-2018-08-16T09:49:24-650697+00:00",
+                "sym_iv": "IQmG3sFQNsQg6+X7vQ6hHw==",
+                "sym_key": "N+aBNP79rUXdEadglWtxGKqaOSbD5r6NT1qo/ZVinzD2ULH4VT6mQdbndDvf68nVV0378isPHKMRcYK9e6rsCOejgHOoebRzYxgWbfaczULjU7Xag3BXMzDuW/Yr5cRYkO6HJvUU8uZ1xIAf2mu1Wy8jil+Dq8ZIGmBzqID75iNpNvQDddiH+7iSmunOOyd3is1BrR6ReeR/EUKrAATezj+e0/0Ht0QxYP//OyNOCt6MQ0+FOuQIMDeMbPVqFkw1qZ2PVzNAYJbsq4g0EOku/+ViTUvLNT5p3Pwf6c6JGKKwTiJQ3w6A2mfq+vVCgbuODD8meK0wg4I4sO2la9dsSw==",
+                "value": "D7nG7LxGkALsDao71LKfRw=="
+            },
+            "connectionTimeout": {
+                "value": 60000
+            },
+            "emailId": {
+                "value": "jovan.jovanovski@interworks.com.mk"
+            },
+            "mailProperties": {
+                "value": []
+            },
+            "password": {
+                "fp": "47350bca925101a6b508b7b53932e112ad50b600639a7ac218cd42561daba81e",
+                "key": "account-cloud-managed-5b7548984dd5a8001fb7e9ca-2018-08-16T09:49:24-650697+00:00",
+                "sym_iv": "X5Fo1ASX7lVxmCz3w3AhGQ==",
+                "sym_key": "bPGHcDJdiz3ll7pMf0pBRGPEDnMWLBdK+AIO7tadOesIk2/LMfKU/ACkFCl/CaBDsk8959CmmnN7RErTKp7xW1QpBKE++8WEfCxnQTobxsVot3TV+xe2tjSoljQIOwQ7WIMlsUP1iqWqVrYPaZe7+EFL1afOFUj5lI3dbMa3ISBAPEylZ+ECN54SDepHvZiZgALcWbsnqEUCNswqxmivPJeFrnrlhTen6ZsnrP0i8DkBTcrPhIaAD9zzjBpkubLqeEIE/ov7q12dflGXICHgFKfOvB4S0TgJ+wsDUBie9L6ZiugKLsqH68t/7C4h5T306hlRdH+Bz+q4KQB62XhwBA==",
+                "value": "fbHntkuybbwKt7RuMhZevg=="
+            },
+            "port": {
+                "value": "25"
+            },
+            "readTimeout": {
+                "value": 60000
+            },
+            "secureConnection": {
+                "value": "NONE"
+            },
+            "serverDomain": {
+                "value": "mail.interworks.com.mk"
+            },
+            "writeTimeout": {
+                "value": 60000
+            }
+        },
+        "view_serial": 100
+    }
+}
