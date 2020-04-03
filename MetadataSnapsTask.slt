@@ -1,6 +1,6 @@
 {
     "job_class": "PipelineJob",
-    "job_name": "Copy of Task.8_BS_ArchiveFiles_Task",
+    "job_name": "MetadataSnapsTask",
     "note": "",
     "parameters": {
         "enabled": true,
@@ -8,13 +8,18 @@
         "include_external_urls": true,
         "job_alias": null,
         "job_type": "standard",
-        "llfeed_token": "2AzhmjnCrm3FHRdwOkR1XaKh5KZJbOi5",
+        "llfeed_token": "VzjKTT5sUvYPc1dXIkWWG8jBwQZ4Cd7Z",
         "max_failures": 10,
         "max_in_flight": 200,
         "notification": {
             "recipients": null
         },
-        "pipeline_path": null,
+        "pipeline_parameters": {
+            "source_org": "Interworks-Partner",
+            "source_project": "asd",
+            "source_space": "projects"
+        },
+        "pipeline_path": "Metadata Snaps",
         "snaplex_path": "IW-Ground"
     },
     "schedule": {},
